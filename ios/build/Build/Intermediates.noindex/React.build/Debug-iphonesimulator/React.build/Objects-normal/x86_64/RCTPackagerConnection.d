@@ -1,0 +1,29 @@
+dependencies: \
+  /Users/stephen/Documents/github/mytest/node_modules/react-native/React/DevSupport/RCTPackagerConnection.m \
+  /Users/stephen/Documents/github/mytest/node_modules/react-native/React/DevSupport/RCTPackagerConnection.h \
+  /Users/stephen/Documents/github/mytest/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/stephen/Documents/github/mytest/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/stephen/Documents/github/mytest/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/stephen/Documents/github/mytest/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/stephen/Documents/github/mytest/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/stephen/Documents/github/mytest/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/stephen/Documents/github/mytest/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/stephen/Documents/github/mytest/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/stephen/Documents/github/mytest/node_modules/react-native/React/Base/RCTConvert.h \
+  /Users/stephen/Documents/github/mytest/node_modules/react-native/React/Views/RCTAnimationType.h \
+  /Users/stephen/Documents/github/mytest/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /Users/stephen/Documents/github/mytest/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/stephen/Documents/github/mytest/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/stephen/Documents/github/mytest/node_modules/react-native/React/Views/RCTPointerEvents.h \
+  /Users/stephen/Documents/github/mytest/node_modules/react-native/React/Views/RCTTextDecorationLineType.h \
+  /Users/stephen/Documents/github/mytest/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/stephen/Documents/github/mytest/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/stephen/Documents/github/mytest/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/stephen/Documents/github/mytest/node_modules/react-native/React/../Libraries/WebSocket/RCTReconnectingWebSocket.h \
+  /Users/stephen/Documents/github/mytest/node_modules/react-native/React/../Libraries/WebSocket/RCTSRWebSocket.h \
+  /Users/stephen/Documents/github/mytest/node_modules/react-native/React/../Libraries/WebSocket/RCTWebSocketObserver.h \
+  /Users/stephen/Documents/github/mytest/node_modules/react-native/React/DevSupport/RCTPackagerConnectionBridgeConfig.h \
+  /Users/stephen/Documents/github/mytest/node_modules/react-native/React/DevSupport/RCTPackagerConnectionConfig.h \
+  /Users/stephen/Documents/github/mytest/node_modules/react-native/React/DevSupport/RCTReloadPackagerMethod.h \
+  /Users/stephen/Documents/github/mytest/node_modules/react-native/React/DevSupport/RCTPackagerClient.h \
+  /Users/stephen/Documents/github/mytest/node_modules/react-native/React/DevSupport/RCTSamplingProfilerPackagerMethod.h
